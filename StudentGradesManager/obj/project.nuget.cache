@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "LrJiFAHtE1Hfu+jaIzh2PVoA41bgVbrWgxO7+/3NXlXFRDkGEM/OHUSzqiUalPc3W643YSNBlqOB47ALlF1dYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zaid\\.gemini\\antigravity\\scratch\\StudentGradesManager\\StudentGradesManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zaid\\.nuget\\packages\\itextsharp\\5.5.13.6\\itextsharp.5.5.13.6.nupkg.sha512",
+    "C:\\Users\\zaid\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\zaid\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'iTextSharp 5.5.13.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "iTextSharp",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
